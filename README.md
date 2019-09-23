@@ -6,7 +6,10 @@ In September 2019 we [reported](https://www.bbc.co.uk/news/uk-england-49745970) 
 
 ## Get the data 
 
-* XLSX: [NHS loans data](https://github.com/BBC-Data-Unit/hospital-loans/blob/master/NHS%20loans%20-%20ALL%20DATA.xlsx)
+* XLSX: [NHS loans 2016/17](https://github.com/BBC-Data-Unit/hospital-loans/blob/master/NHS%20debt%202016_17.xlsx)
+* XLSX: [NHS loans 2017/18](https://github.com/BBC-Data-Unit/hospital-loans/blob/master/NHS%20debt%202017_18_.xlsx)
+* XLSX: [NHS loans 2018/19](https://github.com/BBC-Data-Unit/hospital-loans/blob/master/NHS%20debt%202018_19.xlsx)
+* XLSX: [NHS loans - all](https://github.com/BBC-Data-Unit/hospital-loans/blob/master/NHS%20loans%20-%20ALL%20DATA.xlsx)
 
 
 ## Quotes and interviews
