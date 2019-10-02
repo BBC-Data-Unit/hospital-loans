@@ -32,3 +32,8 @@ In September 2019 we [reported](https://www.bbc.co.uk/news/uk-england-49745970) 
 
 * Column chart: Interim revenue support debt held by NHS trusts in England
 * Bar chart: trusts with the most outstanding debt in March 2019 
+
+## Scripts and code
+
+* [R script to combine data](https://github.com/BBC-Data-Unit/hospital-loans/blob/master/NHS%20loans%20pivot.R)
+* [R script to visualise the data](https://github.com/BBC-Data-Unit/hospital-loans/blob/master/NHS%20Loans%20viz%20script.R)
